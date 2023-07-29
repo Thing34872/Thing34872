@@ -6,3 +6,4 @@
 # I know, the profile pic is racist, but i just looked up funny faces on google then this poped up. 
 # I'm currently learning Python. 
 # Fun fact: I am a human.
+# [Discord](https://discord.gg/595yhKzW)
